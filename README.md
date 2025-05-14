@@ -35,6 +35,18 @@ This course is structured as a week-by-week journey where each section builds on
 
 ---
 
+### ✅ Week 3: Advanced CI/CD and Monitoring
+
+- **AWS CLI Validation and Authentication**: Ensure AWS CLI is installed and properly configured for authentication.
+- **Terraform Setup and Infrastructure Automation**: Validate Terraform installation and use it to provision AWS resources like S3 buckets, security groups, and EC2 instances.
+- **Node.js Application Deployment**: Build and deploy a basic Node.js application on the provisioned EC2 instance.
+- **CI/CD with GitHub Actions**: Automate the deployment of the Node.js app to the EC2 instance using GitHub Actions.
+- **Monitoring and Alerts**: (Optional for Week 3) Set up basic monitoring tools like Prometheus and Grafana for system health and performance.
+
+📂 [week3](./week3)
+
+---
+
 ## 📌 Prerequisites
 
 - Basic understanding of Git and GitHub
